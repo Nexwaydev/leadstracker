@@ -15,7 +15,7 @@ Delete All Button: On double click the delete all button deletes all the data / 
 
 ## Set Up:
 
-You can clone this repository and add it to your chrome extensions following the guides bellow
+You can clone this repository and add it to your chrome extensions following the guides below
 ### Click on the chrome extension icon
 ![1](https://user-images.githubusercontent.com/103048589/173121361-c0785899-c6ef-45f6-9a1f-a030d660b5e4.png)
 ### Switch to developer mode
